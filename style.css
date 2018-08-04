@@ -1,0 +1,160 @@
+{margin: 0; padding: 0;}
+.main_wrap{
+ 	width: 100%
+ 	display:block;
+ 	background: red;
+}
+
+.admission1{
+	text-align:center;
+	color: green;
+	margin-right: 25px;
+}
+.admission1 img{
+	float: left;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+}
+.admission{
+	text-align:center;
+	color: green;
+	margin-right: 25px;
+}
+.p1{
+	font-style: bold;
+	font-size: 20px;
+	margin-bottom: 20px;
+	margin-top: 50px;
+}
+.p2{
+	text-align: justify;
+}
+.p3{
+	border-bottom: 2px dashed;	
+}
+.form{
+	margin-top: 30px;
+}
+.flname input[type=text] {
+	display: inline;
+	border: 1px solid #0099CC;
+	border-radius: 10px;
+	width: 250px;
+	height: 30px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+.flname input[type=text]:hover{
+    color: #E5F5FA;
+}
+.select{
+	border-radius: 5px;
+	border: 1px solid #0099CC;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+.label{
+	font-size: 20px;
+}
+.birth{
+	font-size: 20px;
+	margin-bottom: 10px;	
+}
+.birth input[type=date]{
+	border-radius: 5px;
+	border: 1px solid #0099CC;
+	font-weight: bold;
+	margin-bottom: 20px;
+	text-align: center;		
+}
+.current_address input[type=text] {
+	display: inline;
+	border: 1px solid #0099CC;
+	border-radius: 10px;
+	width: 250px;
+	height: 30px;
+	margin-bottom: 20px;
+	text-align: center;
+	margin-left: 50px;
+}	
+.address{
+	width: 960px;
+	margin: 0 auto;	
+}
+.address1 input[type=text] {
+	border: 1px solid #0099CC;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	text-align: center;
+	margin-left: 190px; 	
+}	
+.address2 input[type=text] {
+	border: 1px solid #0099CC;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	text-align: center;
+	margin-left: 190px; 
+}
+
+.select1{
+	border: 1px solid #0099CC;
+	width: 160px;
+	border-radius: 10px;
+	text-align: center;
+	margin-left: 190px; 
+	margin-bottom: 20px;
+}
+.phone input[type=text] {
+	display: inline;
+	border: 1px solid #0099CC;
+	border-radius: 10px;
+	width: 250px;
+	height: 30px;
+	margin-bottom: 20px;
+	text-align: center;
+	margin-left: 60px;
+}
+.phone input[type=email] {
+	display: inline;
+	border: 1px solid #0099CC;
+	border-radius: 10px;
+	width: 250px;
+	height: 30px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+.radio_button p{
+	width: 200px;
+	height: 100px;
+	text-align: justify;
+}
+.radio_button2 p{
+	width: 200px;
+	height: 100px;
+	text-align: justify;
+}
+.sunmit_button{
+	margin: 0 auto;
+	text-align:center;
+}
+.sunmit_button input[type=submit] {
+	border-radius: 100px;
+	width: 100px;
+	height: 70px;
+	background: green;
+	font-style: bold;
+	font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
